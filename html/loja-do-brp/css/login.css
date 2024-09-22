@@ -1,0 +1,150 @@
+/* Essa é a configuração padrão*/
+*{margin: 0px; padding: 0px;}
+
+/*Aqui fica a configuração do primeiro titúlo*/
+#titulo-um {
+    text-align: center;
+    color: rgb(186, 240, 10);
+    background-color: rgb(11, 124, 20);
+    font-size: 30pt;
+    font-weight: 10%;
+}
+
+/* Essa é a configuração do segundo titúlo*/
+#titulo-dois {
+    text-align: center;
+    color: hsl(70, 100%, 50%);
+    background-color: rgb(109, 172, 73);
+}
+
+/* Essa é a configuração da área da página*/
+#area {
+    height: 500px;
+    background-color: rgb(100, 104, 110);
+    color: rgb(136, 221, 144);
+    
+}
+
+#home{
+    position: relative;
+    left: 350px;
+    bottom: -100px;
+    width: 200px;
+    height: 50px;
+    color: hsl(70, 100%, 50%);
+    background-color: hsl(0, 100%, 50%);
+    border-top-color: hsl(0, 100%, 50%);
+    border-bottom-color: hsl(0, 100%, 50%);
+    border-left-color: hsl(0, 100%, 50%);
+    border-right-color: hsl(0, 100%, 50%);
+    font-size: 15pt;
+    cursor: pointer;
+}
+
+#home:hover{
+    color: hsl(70, 100%, 48%);
+    background-color: hsl(0, 100%, 20%);
+    border-top-color: hsl(0, 100%, 20%);
+    border-bottom-color: hsl(0, 100%, 20%);
+    border-left-color: hsl(0, 100%, 20%);
+    border-right-color: hsl(0, 100%, 20%);
+    transition: background 1s;
+}
+
+
+#home:active{
+    color: hsl(70,100,10%);
+    background-color: hsl(0, 100%, 10%);
+    border-top-color: hsl(0, 100%, 10%);
+    border-bottom-color: hsl(0, 100%, 10%);
+    border-left-color: hsl(0, 100%, 10%);
+    border-right-color: hsl(0, 100%, 10%);
+    
+}
+
+#cadastre-se{
+    position: relative;
+    left: 450px;
+    bottom: -100px;
+    width: 200px;
+    height: 50px;
+    color: hsl(70, 100%, 50%);
+    font-size: 15pt;
+    cursor: pointer;
+    background-color: hsl(150, 100%, 40%);
+    border-top-color: hsl(150, 100%, 40%);
+    border-bottom-color: hsl(150, 100%, 40%);
+    border-left-color: hsl(150, 100%, 40%);
+    border-right-color: hsl(150, 100%, 40%);
+}
+
+#cadastre-se:hover{
+    color: hsl(70, 100%, 48%);
+    background-color: hsl(150, 100%, 20%);
+    border-top-color: hsl(150, 100%, 20%);
+    border-bottom-color: hsl(150, 100%, 20%);
+    border-left-color: hsl(150, 100%, 20%);
+    border-right-color: hsl(150, 100%, 20%);
+    transition: background 1s;
+}
+
+#cadastre-se:active{
+    color: hsl(70,100,35%);
+    background-color: hsl(150, 100%, 10%);
+    border-top-color: hsl(150, 100%, 10%);
+    border-bottom-color: hsl(150, 100%, 10%);
+    border-left-color: hsl(150, 100%, 10%);
+    border-right-color: hsl(150, 100%, 10%);
+    
+}
+
+#login{
+    position: relative;
+    left: 550px;
+    bottom: -100px;
+    width: 200px;
+    height: 50px;
+    color: hsl(70, 100%, 50%);
+    background-color: rgb(0, 102, 255);
+    border-top-color: rgb(0,102,255);
+    border-bottom-color: rgb(0, 102, 255);
+    border-left-color: rgb(0, 102, 255);
+    border-right-color: rgb(0, 102, 255);
+    font-size: 15pt;
+    cursor: pointer;
+}
+
+#login:hover{
+    color: hsl(70, 100%, 48%);
+    background-color:rgb(4, 64, 155) ;
+    transition: background  1s;
+    border-top-color: rgb(4,64,155);
+    border-bottom-color: rgb(4, 64, 155);
+    border-left-color: rgb(4, 64, 155);
+    border-right-color: rgb(4, 64, 155);
+}
+
+#login:active{
+    color: hsl(70,100,10%);
+    background-color:rgb(3, 40, 95);
+    border-top-color: rgb(3,40,95);
+    border-bottom-color: rgb(3, 40, 95);
+    border-left-color: rgb(3, 40, 95);
+    border-right-color: rgb(3, 40, 95);
+}
+
+
+/* Aqui cofiguramos as fontes do paragráfo*/
+#paragrafo{
+    font-weight: 80px;
+    font-size: 20pt;
+}
+
+/* Aqui configuramos o subparagráfo*/
+#subparagrafo{
+    position: relative;
+    bottom: -90px;
+    font-size: 16pt;
+    font-weight: bold;
+    color: hsl(71, 82%, 69%);
+}

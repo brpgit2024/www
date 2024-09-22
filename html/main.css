@@ -1,0 +1,102 @@
+/*Essa parte configura o estilo inicial da página*/
+
+#modulo_corpo
+{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(/.img/hexagon-structure-3g-1633279.jpg);
+    background-size: 90pc 70pc;
+    background-repeat: no-repeat;
+}
+
+/*Essa parte configura o contenier que comporta o conteúdo da página*/
+
+#modulo_caixa_um
+{
+    background-image: url(/.img/parede_carvao.jpg);
+    width: 650px;
+    height: 600px;
+    position: absolute;
+    left: 25pc;
+    top: 80px;
+}
+
+/* essa parte configurar o titulo da página */
+
+#modulo_titulo
+{
+    background-color: rgba(0, 100, 0, 0.300);
+    color: rgba(153, 205, 50, 0.575);
+    text-align: center;
+    margin: 16pt;
+    position: relative;
+    left: -5px;
+    top: 35px;
+}
+
+/* Configurando a aparencia do texto */
+
+#modulo_texto
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+    color: rgb(153, 205, 50);
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    top: 56px;
+    font-weight: bold;
+}
+
+/*Essa parte cuidará da navegação da página*/
+
+#modulo_menu
+{
+    position: relative;
+    left: 270px;
+    top: 20px;
+}
+
+#modulo_php
+{
+    position: absolute;
+    left: -170pt;
+    top: 90px;
+    background-color: honeydew;
+    color: black;
+    font-size: 13pt;
+    text-decoration: none;
+}
+
+#modulo_php:visited
+{
+    background-color: rgb(151, 11, 11);
+    color: rgb(255, 255, 255);
+}
+#modulo_php:hover 
+{
+    background-color: red;
+    color: rgb(255, 255, 255);
+}
+#modulo_dados
+{
+    position: absolute;
+    left: 60pt;
+    top: 90px;
+    background-color: honeydew;
+    color: black;
+    font-size: 13pt;
+    text-decoration: none;
+}
+#modulo_dados:visited
+{
+    background-color: rgb(151, 11, 11);
+    color: rgb(255, 255, 255);
+}
+#modulo_dados:hover 
+{
+    background-color: red;
+    color: rgb(255, 255, 255);
+}
+

@@ -1,0 +1,73 @@
+/* Essa é a configuração padrão*/
+*{margin: 0px; padding: 0px;}
+
+/*Aqui fica a configuração do primeiro titúlo*/
+#titulo-um {
+    text-align: center;
+    color: rgb(186, 240, 10);
+    background-color: rgb(11, 124, 20);
+    font-size: 30pt;
+    font-weight: 10%;
+}
+
+/* Essa é a configuração do segundo titúlo*/
+#titulo-dois {
+    text-align: center;
+    color: hsl(70, 100%, 50%);
+    background-color: rgb(109, 172, 73);
+}
+
+/* Essa é a configuração da área da página*/
+#area {
+    height: 500px;
+    background-color: rgb(100, 104, 110);
+    color: rgb(136, 221, 144);
+}
+
+/* Aqui onde configuramos o botão entrar*/
+#entrar{
+    position: relative;
+    left: 550px;
+    bottom: -100px;
+    width: 200px;
+    height: 50px;
+    color: hsl(70, 100%, 50%);
+    background-color: hsl(150, 100%, 30%);
+    border-top-color: hsl(150, 100%, 30%);
+    border-bottom-color: hsl(150, 100%, 30%);
+    border-left-color: hsl(150, 100%, 30%);
+    border-right-color: hsl(150, 100%, 30%);
+    font-size: 15pt;
+    cursor: pointer;
+}
+
+/* Aqui configuramos o estado do botão entrar quando passamos o mouser*/
+#entrar:hover{
+    color: hsl(70, 100%, 29%);
+    background-color: rgb(71, 75, 80);
+    transition: background 1s;
+}
+
+/* Aqui configuramos o estado do botão entrar quando clicamos*/
+#entrar:active{
+    color: rgb(255, 157, 0);
+    background-color: rgb(50, 53, 56);
+    
+}
+
+/* Aqui cofiguramos as fontes do paragráfo*/
+#paragrafo{
+    font-weight: 80px;
+    font-size: 20pt;
+    position: relative;
+    top: 10px;
+}
+
+/* Aqui configuramos o subparagráfo*/
+#subparagrafo{
+    position: relative;
+    bottom: -90px;
+    font-size: 16pt;
+    font-weight: bold;
+    color: hsl(71, 82%, 69%);
+}
