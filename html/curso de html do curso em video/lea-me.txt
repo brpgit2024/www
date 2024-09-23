@@ -1,2 +1,0 @@
-Essa pasta foi criada para suportar os exercícios de um curso de HTML5 que estou fazendo, durante o curso 
-pode-se vim mais aquivos relacionado ao curso. E no final a construção de um website.
