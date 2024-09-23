@@ -1,0 +1,2 @@
+This folder was created to support the exercises of an HTML5 course that I am taking. During the course, 
+more files related to the course can be added. And at the end, the construction of a website.
