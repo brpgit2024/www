@@ -1,9 +1,0 @@
-@charset "UTF-8";
-
-#paragrafy {
-  text-align: justify;
-  text-indent: 50px;
-}
-body {
-  background-color: hsla(163, 97%, 34%, 0.1);
-}
