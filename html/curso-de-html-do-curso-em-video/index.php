@@ -18,11 +18,11 @@
 <nav>
     <h1>Menu Principal</h1>
     <ul>
-       <li>Home</li>
-       <li>Especificações</li>
-       <li>Fotos</li>
-       <li>Multimídia</li>
-       <li>Fale conosco</li>
+       <li><a href="index.php">Home</a></li>
+       <li><a href="_pg/spec.php">Especificações</a></li>
+       <li><a href="_pg/photo.php">Fotos</a></li>
+       <li><a href="_pg/mult.php">Multimídia</a></li>
+       <li><a href="_pg/contact.php">Fale conosco</a></li>
     </ul>
   </nav>
       </header>
@@ -34,7 +34,7 @@
   <h3>Tecnologia > &nbsp; Inovações</h3>
 </hgroup>
 <h2>O que é</h2>
-<p id="paragrafy">O <b>Google Glass</b> é um acessório em forma de óculos que possibilita a interação dos usuários com diversos conteúdos em realidade aumentada. Também chamado de <i>Project Glass</i>, o eletrônico é capaz de tirar fotos a partir de comandos de voz, enviar mensagens instantâneas e realizar vídeo&shy;con&shy;ferê&shy;ncias. Seu lançamento está previsto para 2014, e seu preço deve ser de US$ 1,5 mil. Atualmente o <em>Google Glass</em> encontra-se em fase de testes e já possui um vídeo totalmente gravado com o dispositivo. Além disso, a companhia de buscas registrou novas patentes anti-furto e de desbloqueio de tela para o acessório.</p>
+<p id="paragrafy">O <b>Google Glass</b> é um acessório em forma de óculos que possibilita a interação dos usuários com diversos conteúdos em realidade aumentada. Também chamado de <a href="https://forbes.com.br/forbes-tech/2023/03/o-que-levou-o-google-a-desistir-do-google-glass/">Project Glass</a>, o eletrônico é capaz de tirar fotos a partir de comandos de voz, enviar mensagens instantâneas e realizar vídeo&shy;con&shy;ferê&shy;ncias. Seu lançamento está previsto para 2014, e seu preço deve ser de US$ 1,5 mil. Atualmente o <em>Google Glass</em> encontra-se em fase de testes e já possui um vídeo totalmente gravado com o dispositivo. Além disso, a companhia de buscas registrou novas patentes anti-furto e de desbloqueio de tela para o acessório.</p>
 <figure class="foto-legenda">
   <img src="_img/glass-quadro-homem-mulher.jpg"/>
   <figcaption>
@@ -56,7 +56,7 @@ Memória Interna: 12GB
 <h1>Como funciona</h1>
 <p id="paragrafy">De acordo com fontes próximas do Google, os óculos vão contar com uma pequena tela de LCD ou AMOLED na parte superior e em frente aos olhos do usuário. Com o uso de uma câmera e GPS, você pode se situar, assim como selecionar opções com o movimento da cabeça</p>
 
-<h1>O que você pode fazer com o Google Glasses</h1>
+<h1>O que você pode fazer com o Google Glass</h1>
 <p id="paragrafy">O vídeo de divulgação do Google mostra que você pode se transformar em uma espécie de “super-<wbr/>humano”, já que o aparelho pode indicar a quantos metros você está de seu destino, se o metrô está aberto ou fechado, mostrar o clima, agenda e até mesmo permitir que você marque encontros apenas com comandos de voz.</p>
 
 [AQUI ENTRA UM VÍDEO]
