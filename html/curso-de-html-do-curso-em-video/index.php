@@ -15,14 +15,16 @@
          </hgroup>
       </header>
       <img src="_img/glass-oculos-preto-peq.png" alt="Oculos preto pequeno"/>
-
-Menu Principal
-- Home
-- Especificações
-- Fotos
-- Multimídia
-- Fale conosco
-
+<nav>
+    <h1>Menu Principal</h1>
+    <ul>
+       <li>Home</li>
+       <li>Especificações</li>
+       <li>Fotos</li>
+       <li>Multimídia</li>
+       <li>Fale conosco</li>
+    </ul>
+  </nav>
       </header>
 
 <hgroup>
