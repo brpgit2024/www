@@ -24,10 +24,10 @@ body {
   height: 100%;
   padding: 10px;
   box-sizing: border-box;
+  transition: opacity 1s;
 }
 .foto-legenda:hover figcaption {
   opacity: 2;
-  transition: opacity 1s;
 }
 /* Formatação do menu */
 
@@ -45,11 +45,25 @@ body {
 
 #menu li {
   display: inline-block;
-  background-color: #dddddd;
+  /*background-color: #dddddd;*/
   padding: 10px;
   margin: 2px;
+  transition: background-color 1s;
+}
+
+#menu li:hover {
+  background-color: #606060;
 }
 
 #menu h1 {
   display: none;
+}
+#menu a {
+  color: #000000;
+  text-decoration: none;
+  transition: color 1s;
+}
+#menu a:hover {
+  color: #ffffff;
+  text-decoration: underline;
 }
