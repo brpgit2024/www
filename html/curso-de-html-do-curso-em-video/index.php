@@ -15,7 +15,7 @@
          </hgroup>
       </header>
       <img src="_img/glass-oculos-preto-peq.png" alt="Oculos preto pequeno"/>
-<nav>
+<nav id="menu">
     <h1>Menu Principal</h1>
     <ul>
        <li><a href="index.php">Home</a></li>
